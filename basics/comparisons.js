@@ -19,7 +19,7 @@ console.log(2>1);
     //Stack-> Primitive-> creates a copy means changes are made to the copy version
     //Heap-> Non primitive-> changes are made directly to the original memory or value.
 //Example
-let myName="Vijay";
+let myName="Mahesh";
 let myNickName=myName;
 myNickName="Vishu";
 console.log(myName);

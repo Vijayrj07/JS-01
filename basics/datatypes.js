@@ -2,7 +2,7 @@
 
 //alert("hello") we are using node not browser
 
-let name="Vijay";
+let name="Prateek";
 let age=21;
 let isLoggedIn=false;
 
@@ -14,6 +14,6 @@ let isLoggedIn=false;
 //undefined
 //symbol
 //object
-console.log(typeof "Vijay");
+console.log(typeof "Prateek");
 //typeof of undefined is undefined
 //typeof null is object an error in js.

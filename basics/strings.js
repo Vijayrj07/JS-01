@@ -1,11 +1,11 @@
-const name="Vijay";
+const name="Johny";
 const repoCount=50;
 // console.log(name+ repoCount +"Value");
 //instead of using + for concatenation of strings
 //make use of backtics and ${}
 console.log(`Hello! my name is ${name} and I have repo count of ${repoCount}`);
 
-const gameNmae= new String("Vijay") //this will print the same as the canst name but if we run this on console it will give object type and hence string is treated as object in js.
+const gameNmae= new String("Narendra") //this will print the same as the canst name but if we run this on console it will give object type and hence string is treated as object in js.
 //new keyword is used to create or use objects in javascript. 
 
 console.log(gameNmae[0]);
